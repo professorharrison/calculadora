@@ -11,7 +11,7 @@ namespace CShp_CalculosTest
             // Arrange  
             var num1 = 2.9;
             var num2 = 3.1;
-            var valorEsperado = 6;
+            var valorEsperado = 4;
 
             // Act  
             var soma = Calculo.Somar(num1, num2);
