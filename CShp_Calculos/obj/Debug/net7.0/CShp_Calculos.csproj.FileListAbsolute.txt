@@ -1,0 +1,15 @@
+C:\Users\Aluno\source\repos\CShp_Calculos\CShp_Calculos\bin\Debug\net7.0\CShp_Calculos.exe
+C:\Users\Aluno\source\repos\CShp_Calculos\CShp_Calculos\bin\Debug\net7.0\CShp_Calculos.deps.json
+C:\Users\Aluno\source\repos\CShp_Calculos\CShp_Calculos\bin\Debug\net7.0\CShp_Calculos.runtimeconfig.json
+C:\Users\Aluno\source\repos\CShp_Calculos\CShp_Calculos\bin\Debug\net7.0\CShp_Calculos.dll
+C:\Users\Aluno\source\repos\CShp_Calculos\CShp_Calculos\bin\Debug\net7.0\CShp_Calculos.pdb
+C:\Users\Aluno\source\repos\CShp_Calculos\CShp_Calculos\obj\Debug\net7.0\CShp_Calculos.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\CShp_Calculos\CShp_Calculos\obj\Debug\net7.0\CShp_Calculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\CShp_Calculos\CShp_Calculos\obj\Debug\net7.0\CShp_Calculos.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\CShp_Calculos\CShp_Calculos\obj\Debug\net7.0\CShp_Calculos.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\CShp_Calculos\CShp_Calculos\obj\Debug\net7.0\CShp_Calculos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\CShp_Calculos\CShp_Calculos\obj\Debug\net7.0\CShp_Calculos.dll
+C:\Users\Aluno\source\repos\CShp_Calculos\CShp_Calculos\obj\Debug\net7.0\refint\CShp_Calculos.dll
+C:\Users\Aluno\source\repos\CShp_Calculos\CShp_Calculos\obj\Debug\net7.0\CShp_Calculos.pdb
+C:\Users\Aluno\source\repos\CShp_Calculos\CShp_Calculos\obj\Debug\net7.0\CShp_Calculos.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\CShp_Calculos\CShp_Calculos\obj\Debug\net7.0\ref\CShp_Calculos.dll
